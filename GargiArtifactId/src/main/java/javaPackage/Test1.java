@@ -17,6 +17,7 @@ public class Test1 {
 		System.out.println("Hello main Method");
 		System.out.println("Hello git");
 		System.out.println("heelo");
+		System.out.println("hi");
 	}
 
 }
